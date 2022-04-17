@@ -1,0 +1,1015 @@
+.background-div,
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #fefefe;
+  width: 1366px;
+  height: 659px;
+}
+.rectangle-div {
+  border-radius: 10px;
+  background-color: #3e0884;
+  width: 390px;
+  height: 67.38px;
+}
+.submit-div1 {
+  position: absolute;
+  top: 20.21px;
+  left: 162.68px;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 62.49px;
+  height: 25.61px;
+}
+.rectangle-div1,
+.submit-div {
+  position: absolute;
+  left: 0;
+  width: 390px;
+}
+.submit-div {
+  top: 299.18px;
+  height: 67.38px;
+  text-align: center;
+  color: #fefefe;
+}
+.rectangle-div1 {
+  top: 0;
+  border-radius: 10px;
+  background-color: #efe3ff;
+  height: 167.11px;
+}
+.sua-mensagem-div {
+  position: absolute;
+  top: 20.21px;
+  left: 20px;
+  display: inline-block;
+  width: 134px;
+  height: 25.61px;
+}
+.input-telephone,
+.rectangle-div2 {
+  position: absolute;
+  top: 99.73px;
+  left: 0;
+  width: 390px;
+  height: 167.11px;
+}
+.rectangle-div2 {
+  top: 0;
+  border-radius: 10px;
+  background-color: #efe3ff;
+  height: 67.38px;
+}
+.polygon-icon {
+  position: absolute;
+  top: 30.32px;
+  left: 358.4px;
+  width: 9.33px;
+  height: 10.11px;
+}
+.selecione-uma-opo {
+  position: absolute;
+  top: 20.21px;
+  left: 20px;
+  display: inline-block;
+  width: 164.83px;
+  height: 25.61px;
+}
+.right-side-div,
+.selecione-div,
+.seu-email-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 390px;
+  height: 67.38px;
+}
+.right-side-div,
+.seu-email-div {
+  left: 420px;
+  height: 366.56px;
+}
+.seu-email-div {
+  top: 20.21px;
+  left: 20px;
+  display: inline-block;
+  width: 75.41px;
+  height: 25.61px;
+}
+.input-telephone1 {
+  position: absolute;
+  top: 199.45px;
+  left: 0;
+  width: 390px;
+  height: 67.38px;
+}
+.seu-telefone-div {
+  position: absolute;
+  top: 20.21px;
+  left: 20px;
+  display: inline-block;
+  width: 95.88px;
+  height: 25.61px;
+}
+.input-telephone2,
+.seu-nome-div {
+  position: absolute;
+  top: 99.73px;
+  left: 0;
+  width: 390px;
+  height: 67.38px;
+}
+.seu-nome-div {
+  top: 20.21px;
+  left: 20px;
+  display: inline-block;
+  width: 77.57px;
+  height: 25.61px;
+}
+.left-side-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 390px;
+  height: 266.83px;
+}
+.contact-form-div {
+  position: absolute;
+  top: 239.88px;
+  left: 277px;
+  width: 810px;
+  height: 366.56px;
+}
+.para-saber-mais-ou-agendar-uma {
+  position: absolute;
+  top: 150.94px;
+  left: 302px;
+  text-align: center;
+  display: inline-block;
+  width: 761px;
+  height: 28.3px;
+}
+.fale-conosco-div1 {
+  position: absolute;
+  top: 70.08px;
+  left: 568px;
+  font-size: 32px;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: #3e0884;
+  display: inline-block;
+  width: 230px;
+  height: 51.21px;
+}
+.background-div1,
+.fale-conosco-div,
+.whatsapp-div {
+  position: absolute;
+  top: 3752px;
+  left: 0;
+  width: 1366px;
+  height: 659px;
+}
+.background-div1,
+.whatsapp-div {
+  top: 0;
+  background-color: #9d52ff;
+  height: 353px;
+}
+.whatsapp-div {
+  border-radius: 5px;
+  background-color: #3e0884;
+  width: 250px;
+  height: 60px;
+}
+.musicagmailcom-div {
+  position: absolute;
+  top: 3px;
+  left: 33px;
+  font-weight: 500;
+  display: inline-block;
+}
+.contact-3-div,
+.icon,
+.text-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 25px;
+  height: 25px;
+}
+.contact-3-div,
+.text-div {
+  top: 18px;
+  left: 36px;
+  width: 176px;
+}
+.contact-3-div {
+  top: 0;
+  left: 560px;
+  width: 250px;
+  height: 60px;
+}
+.ligue-para-ns {
+  position: absolute;
+  top: 3px;
+  left: 34px;
+  font-weight: 500;
+  display: inline-block;
+}
+.contact-2-div,
+.text-div1 {
+  position: absolute;
+  top: 18px;
+  left: 55px;
+  width: 140px;
+  height: 25px;
+}
+.contact-2-div {
+  top: 0;
+  left: 280px;
+  width: 250px;
+  height: 60px;
+}
+.fale-por-whatsapp {
+  position: absolute;
+  top: 3px;
+  left: 31px;
+  font-weight: 500;
+  display: inline-block;
+}
+.text-div2 {
+  position: absolute;
+  top: 18px;
+  left: 41px;
+  width: 167px;
+  height: 25px;
+}
+.contact-1-div,
+.contact-buttons-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 250px;
+  height: 60px;
+}
+.contact-buttons-div {
+  top: 186px;
+  left: 277px;
+  width: 810px;
+}
+.clique-nos-links {
+  text-decoration: underline;
+}
+.para-saber-mais-ou-agendar-uma1 {
+  position: absolute;
+  top: 112px;
+  left: 302px;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  width: 761px;
+  height: 21px;
+}
+.contatos-div {
+  position: absolute;
+  top: 52px;
+  left: 601px;
+  font-size: 32px;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: #9d52ff;
+  display: inline-block;
+}
+.contato-div {
+  position: absolute;
+  top: 3399px;
+  left: 0;
+  width: 1366px;
+  height: 353px;
+  color: #fff;
+}
+.background-div2,
+.faq-1-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.background-div2 {
+  background-color: #fefefe;
+  width: 1366px;
+  height: 979px;
+}
+.faq-1-div {
+  border: 1px solid #801cbd;
+  box-sizing: border-box;
+  width: 1011px;
+  height: 80px;
+}
+.lorem-ipsum-dolor-sit-amet-co {
+  position: absolute;
+  top: 31px;
+  left: 44px;
+  display: inline-block;
+}
+.faq-1-div2,
+.faq-1-div4,
+.faq-2-div,
+.faq-3-div {
+  position: absolute;
+  top: 549px;
+  left: 0;
+  width: 1011px;
+  height: 80px;
+}
+.faq-1-div2,
+.faq-1-div4,
+.faq-2-div {
+  top: 444px;
+}
+.faq-1-div2,
+.faq-1-div4 {
+  top: 339px;
+}
+.faq-1-div4 {
+  top: 0;
+  border: 1px solid #801cbd;
+  box-sizing: border-box;
+  height: 306px;
+}
+.lorem-ipsum-dolor-sit-amet-co3 {
+  position: absolute;
+  top: 31px;
+  left: 44px;
+  color: #000;
+  display: inline-block;
+}
+.sollicitudin-ac-orci-phasellus {
+  position: absolute;
+  top: 78px;
+  left: 44px;
+  display: inline-block;
+  width: 920px;
+}
+.sollicitudin-ac-orci-phasellus1,
+.sollicitudin-ac-orci-phasellus2 {
+  position: absolute;
+  top: 144px;
+  left: 44px;
+  display: inline-block;
+  width: 920px;
+}
+.sollicitudin-ac-orci-phasellus2 {
+  top: 210px;
+}
+.faq-0-div,
+.faqs-div {
+  position: absolute;
+  width: 1011px;
+}
+.faq-0-div {
+  top: 0;
+  left: 0;
+  height: 306px;
+  color: #555;
+}
+.faqs-div {
+  top: 215px;
+  left: 177px;
+  height: 629px;
+}
+.lorem-ipsum-dolor-sit-amet-con {
+  position: absolute;
+  top: 120px;
+  left: 302px;
+  text-transform: lowercase;
+  text-align: center;
+  display: inline-block;
+  width: 761px;
+  height: 25px;
+}
+.letras-das-msicastraduo {
+  position: absolute;
+  top: 45px;
+  left: 490px;
+  font-size: 32px;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: #460876;
+  display: inline-block;
+}
+.background-div3,
+.perguntas-frequentes-div {
+  position: absolute;
+  top: 2420px;
+  left: 0;
+  width: 1366px;
+  height: 979px;
+}
+.background-div3 {
+  top: 0;
+  background-color: #9d52ff;
+  height: 725px;
+}
+.forma-de-pagamento1 {
+  position: absolute;
+  top: 38px;
+  left: 518px;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+}
+.forma-de-pagamento {
+  position: absolute;
+  top: 1695px;
+  left: -1px;
+  width: 1366px;
+  height: 725px;
+  font-size: 32px;
+  color: #3e0884;
+}
+.background-div4,
+.box-1-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #fefefe;
+  width: 1366px;
+  height: 608px;
+}
+.box-1-div {
+  background-color: #c4c4c4;
+  width: 260px;
+  height: 310px;
+}
+.stay-div {
+  position: relative;
+  display: inline-block;
+}
+.frame-div {
+  position: absolute;
+  top: 90px;
+  left: 15px;
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.bibendum-enim-facilisis-gravid {
+  position: relative;
+  display: inline-block;
+  width: 206px;
+  flex-shrink: 0;
+}
+.frame-div1 {
+  position: absolute;
+  top: 130px;
+  left: 15px;
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: 16px;
+}
+.inscrever-se-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #777;
+  width: 210px;
+  height: 45px;
+}
+.saiba-mais-div {
+  position: absolute;
+  top: 9px;
+  left: 32px;
+  display: inline-block;
+  width: 146.63px;
+  height: 28px;
+}
+.button-div {
+  position: absolute;
+  top: 247px;
+  left: 25px;
+  width: 210px;
+  height: 45px;
+  color: #ddd;
+}
+.content-1-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 260px;
+  height: 310px;
+}
+.bibendum-enim-facilisis-gravid1,
+.woman-div {
+  position: absolute;
+  top: 100px;
+  left: 25px;
+  display: inline-block;
+}
+.bibendum-enim-facilisis-gravid1 {
+  top: 140px;
+  font-size: 16px;
+  text-align: left;
+  width: 206px;
+}
+.boxes-div,
+.content-2-div,
+.content-3-div,
+.content-4-div {
+  position: absolute;
+  top: 0;
+  left: 289px;
+  width: 260px;
+  height: 310px;
+}
+.boxes-div,
+.content-3-div,
+.content-4-div {
+  left: 578px;
+}
+.boxes-div,
+.content-4-div {
+  left: 867px;
+}
+.boxes-div {
+  top: 223px;
+  left: 119px;
+  width: 1127px;
+}
+.lorem-ipsum-dolor-sit-amet-con1 {
+  position: relative;
+  text-transform: lowercase;
+  display: inline-block;
+  width: 761px;
+  flex-shrink: 0;
+}
+.frame-div2 {
+  position: absolute;
+  top: 110px;
+  left: 292px;
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: 16px;
+}
+.artistas-renomados-div {
+  position: relative;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: inline-block;
+}
+.frame-div3 {
+  position: absolute;
+  top: 38px;
+  left: 498px;
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: 32px;
+  color: #3e0884;
+}
+.background-div5,
+.materiais-div {
+  position: absolute;
+  left: 0;
+  width: 1366px;
+}
+.materiais-div {
+  top: 1087px;
+  height: 608px;
+  text-align: center;
+  font-size: 24px;
+}
+.background-div5 {
+  top: 0;
+  background-color: #9d52ff;
+  height: 556px;
+}
+.lorem-ipsum-dolor {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.adipisicing-elit-omnis {
+  margin: 0;
+}
+.topic-div,
+.topic-div1,
+.topic-div2,
+.topic-div3 {
+  position: absolute;
+  top: 107px;
+  left: 92px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.topic-div1,
+.topic-div2,
+.topic-div3 {
+  top: 183px;
+}
+.topic-div2,
+.topic-div3 {
+  top: 259px;
+}
+.topic-div3 {
+  top: 335px;
+}
+.title-div {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+}
+.frame-div4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: 24px;
+  color: #460876;
+}
+.text-div3 {
+  position: absolute;
+  top: 80px;
+  left: 778px;
+  width: 459px;
+  height: 373px;
+}
+.rectangle-div6,
+.sobre-div {
+  position: absolute;
+  top: 531px;
+  left: 0;
+  width: 1366px;
+  height: 556px;
+}
+.rectangle-div6 {
+  top: 0;
+  background-color: #3e0884;
+  width: 247px;
+  height: 51px;
+}
+.call-to-action1 {
+  position: absolute;
+  top: 11px;
+  left: 53px;
+  display: inline-block;
+}
+.call-to-action {
+  position: absolute;
+  top: 214px;
+  left: 0;
+  width: 247px;
+  height: 51px;
+}
+.lorem-ipsum-dolor-sit-amet-con6,
+.lorem-ipsum-dolor-sit-amet-con7 {
+  position: absolute;
+  top: 95px;
+  left: 0;
+  color: #000;
+  display: inline-block;
+}
+.lorem-ipsum-dolor-sit-amet-con7 {
+  top: 0;
+  font-size: 32px;
+  font-weight: 500;
+  color: #460876;
+}
+.image-hero-icon,
+.main-copy-div {
+  position: relative;
+  width: 602px;
+  height: 265px;
+  flex-shrink: 0;
+}
+.image-hero-icon {
+  width: 453px;
+  object-fit: cover;
+  margin-left: 119px;
+}
+.hero-div {
+  position: absolute;
+  top: 73px;
+  left: 0;
+  background-color: #fefefe;
+  width: 1366px;
+  display: flex;
+  flex-direction: row;
+  padding: 98px 86px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: 24px;
+  color: #fefefe;
+}
+.background-div6 {
+  position: relative;
+  background-color: #9d52ff;
+  width: 1366px;
+  height: 70px;
+  flex-shrink: 0;
+}
+.frame-div5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.artistas-renomados-div1,
+.discos-do-momentos,
+.fale-conosco-div2,
+.perguntas-frequentes-div1 {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  width: 87px;
+  flex-shrink: 0;
+}
+.discos-do-momentos,
+.fale-conosco-div2,
+.perguntas-frequentes-div1 {
+  width: 78px;
+}
+.fale-conosco-div2,
+.perguntas-frequentes-div1 {
+  width: 81px;
+}
+.fale-conosco-div2 {
+  width: 68px;
+}
+.linksanchors-div {
+  position: absolute;
+  top: 29px;
+  left: 727px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.linksanchors-div > * + * {
+  margin-left: 32px;
+}
+.header-div {
+  position: absolute;
+  top: -10px;
+  left: -10px;
+  width: 1386px;
+  height: 90px;
+  color: #fefefe;
+}
+.frame-icon {
+  position: absolute;
+  top: 696px;
+  left: 773px;
+  max-width: 100%;
+  max-height: 100%;
+}
+.frame-icon1,
+.frame-icon2,
+.frame-icon3,
+.frame-icon4 {
+  position: absolute;
+  top: 772px;
+  left: 772px;
+  max-width: 100%;
+  max-height: 100%;
+}
+.frame-icon2,
+.frame-icon3,
+.frame-icon4 {
+  top: 848px;
+  left: 775px;
+}
+.frame-icon3,
+.frame-icon4 {
+  top: 924px;
+  left: 773px;
+}
+.frame-icon4 {
+  top: 592px;
+  left: 167px;
+}
+.logo-ms-dev-2-icon {
+  position: absolute;
+  top: 23px;
+  left: 47px;
+  width: 260px;
+  height: 24px;
+  object-fit: cover;
+}
+.frame-icon5 {
+  position: absolute;
+  top: 1305px;
+  left: 126px;
+  max-width: 100%;
+  max-height: 100%;
+}
+.ellipse-icon,
+.ellipse-icon1,
+.ellipse-icon2 {
+  position: absolute;
+  top: 1315px;
+  left: 424px;
+  width: 82px;
+  height: 82px;
+  object-fit: cover;
+}
+.ellipse-icon1,
+.ellipse-icon2 {
+  left: 708px;
+}
+.ellipse-icon2 {
+  left: 998px;
+}
+.box-1-div4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #c4c4c4;
+  width: 260px;
+  height: 504px;
+}
+.lorem-ipsum-dolor-sit-amet {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.lorem-ipsum-dolor-sit-amet1,
+.lorem-ipsum-dolor-sit-amet2 {
+  position: absolute;
+  top: 33px;
+  left: 0;
+  display: inline-block;
+}
+.lorem-ipsum-dolor-sit-amet2 {
+  top: 66px;
+}
+.lorem-ipsum-dolor-sit-amet3,
+.lorem-ipsum-dolor-sit-amet4 {
+  position: absolute;
+  top: 99px;
+  left: 0;
+  color: #8b8b8b;
+  display: inline-block;
+}
+.lorem-ipsum-dolor-sit-amet4 {
+  top: 132px;
+}
+.topics-div {
+  position: absolute;
+  top: 215px;
+  left: 25px;
+  width: 201px;
+  height: 151px;
+}
+.inscrever-se-div4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #777;
+  width: 210px;
+  height: 73.16px;
+}
+.oua-j-div {
+  position: absolute;
+  top: 14.63px;
+  left: 32px;
+  display: inline-block;
+  width: 146.63px;
+  height: 45.52px;
+}
+.button-div4,
+.content-1-div1 {
+  position: absolute;
+  top: 401.57px;
+  left: 25px;
+  width: 210px;
+  height: 73.16px;
+  text-align: center;
+  font-size: 24px;
+  color: #ddd;
+}
+.content-1-div1 {
+  top: 0;
+  left: 0;
+  width: 260px;
+  height: 504px;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+}
+.button-div5 {
+  position: absolute;
+  top: 401.57px;
+  left: 25px;
+  width: 210px;
+  height: 73.16px;
+}
+.boxes-div1,
+.content-2-div1,
+.content-3-div1,
+.content-4-div1 {
+  position: absolute;
+  top: 0;
+  left: 289px;
+  width: 260px;
+  height: 504px;
+}
+.boxes-div1,
+.content-3-div1,
+.content-4-div1 {
+  left: 578px;
+}
+.boxes-div1,
+.content-4-div1 {
+  left: 867px;
+}
+.boxes-div1 {
+  top: 1840px;
+  left: 133px;
+  width: 1127px;
+  text-align: center;
+  font-size: 24px;
+  color: #ddd;
+}
+.topics-div1,
+.topics-div2,
+.topics-div3 {
+  position: absolute;
+  top: 2058px;
+  left: 451px;
+  width: 201px;
+  height: 151px;
+}
+.topics-div2,
+.topics-div3 {
+  left: 736px;
+}
+.topics-div3 {
+  top: 2065px;
+  left: 1025px;
+}
+.ellipse-icon3,
+.ellipse-icon4,
+.ellipse-icon5,
+.ellipse-icon6 {
+  position: absolute;
+  top: 1884px;
+  left: 187px;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+.ellipse-icon4,
+.ellipse-icon5,
+.ellipse-icon6 {
+  left: 1048px;
+}
+.ellipse-icon5,
+.ellipse-icon6 {
+  left: 768px;
+}
+.ellipse-icon6 {
+  left: 479px;
+}
+.andr-teste-div {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 4411px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: Roboto;
+}
